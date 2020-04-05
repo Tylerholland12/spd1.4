@@ -17,6 +17,9 @@
 # loop that searches for the last item in the array and once that item is found I will increase
 # that value by one 
 
+# Solution
+# -----------
+
 numbers = [2, 4, 5, 6]
 
 def increase_last_item(numbers):
